@@ -9,7 +9,7 @@
 ## 8. Sky Route Reservation System.
 ## 9. Music Information System.
 ## 10. Life Serve Blood Bank Management System.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1. Pizza Order System.
 <img width="1880" height="904" alt="image" src="https://github.com/user-attachments/assets/7156a651-1d94-4b87-9b0f-b241acfc4f48" />
 ----
@@ -41,7 +41,7 @@ This repository contains the **MySQL database schema (`pizza_order.sql`)** which
   ```
   https://www.getyourprojectdone.in/projects/Pizza-Order-System
   ```
-**------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+---
 ## 2. College Portal System.
 <img width="794" height="413" alt="image" src="https://github.com/user-attachments/assets/1d2e7c8f-dd18-4622-8c06-fb2d3e43e68e" />
 ---
@@ -73,5 +73,5 @@ This repository contains the **MySQL database schema (`portal_college.sql`)** wh
 https://www.getyourprojectdone.in/projects/College-Portal-System
 
 ```
-**----------------------------------------------------------------------------------**
+---
 
