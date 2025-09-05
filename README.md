@@ -102,9 +102,9 @@ This repository contains the **MySQL database schema (`school.sql`)** that can b
 
 ---
  ## project link:
- ```
+ ***
   https://www.getyourprojectdone.in/projects/School-Management-System
-```
+***
   
 
 
