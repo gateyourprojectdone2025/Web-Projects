@@ -1,11 +1,11 @@
 # Web-Projects:
-## 1. Sky Route Reservation System
-## 2. Sky Route Reservation Systemm
-## 3. Sky Route Reservation System
-## 4. Sky Route Reservation System
-## 5. Sky Route Reservation System
-## 6. Sky Route Reservation System
-## 7. Sky Route Reservation System
-## 8. Sky Route Reservation System
-## 9. Sky Route Reservation System
-## 10. Sky Route Reservation System
+## 1. Pizza Order System.
+## 2. College Portal System.
+## 3.School Management System.
+## 4. Student Attendance Management System.
+## 5.E-Banking System.
+## 6.AquaTrack Water Billing System.
+## 7. TrendWave newsbuzz system.
+## 8. Sky Route Reservation System.
+## 9. Music Information System.
+## 10. Life Serve Blood Bank Management System.
