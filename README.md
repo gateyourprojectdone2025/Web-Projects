@@ -74,4 +74,39 @@ https://www.getyourprojectdone.in/projects/College-Portal-System
 
 ```
 ---
+## 3.School Management System.
+<img width="1415" height="924" alt="image" src="https://github.com/user-attachments/assets/b48b491c-baa6-4b84-a8b6-8cc4046847f9" />
+## 📌 Overview
+The **School Management System** is a database-driven application designed to manage students, teachers, classes, exams, and results in an organized way.  
+This repository contains the **MySQL database schema (`school.sql`)** that can be used as the backend for a school management system.
+
+---
+
+## 🚀 Features
+- 👨‍🏫 **Staff Management** – Store teacher details such as qualifications, salary, contact info, and subjects handled.  
+- 👨‍🎓 **Student Management** – Maintain student records including roll numbers, class, section, personal details, and guardians.  
+- 🏫 **Class & Section Management** – Organize students into classes and sections.  
+- 📝 **Examination Module** – Manage exams, exam types, schedules, and subjects.  
+- 📊 **Marks & Performance Tracking** – Record exam marks for students and generate performance reports.  
+- 📚 **Subject Management** – Maintain a list of subjects offered in the school.  
+- 🔑 **Admin Panel** – Secure login for admin to manage the system.  
+
+---
+
+## 💡 Advantages
+- ✅ Centralized school data management.  
+- ✅ Reduces paperwork and manual errors.  
+- ✅ Quick access to student and staff information.  
+- ✅ Helps track student academic performance.  
+- ✅ Scalable design to add more features like attendance, fees, etc.  
+
+---
+ ## project link:
+ ```
+  https://www.getyourprojectdone.in/projects/School-Management-System
+```
+  
+
+
+
 
