@@ -12,7 +12,7 @@
 ----
 ## 1. Pizza Order System.
 <img width="1880" height="904" alt="image" src="https://github.com/user-attachments/assets/7156a651-1d94-4b87-9b0f-b241acfc4f48" />
-----
+
 
 ## 📌 Overview
 The **Pizza Ordering System** is a database-driven application that manages customer orders, pizzas, toppings, and pricing.  
@@ -44,7 +44,7 @@ This repository contains the **MySQL database schema (`pizza_order.sql`)** which
 ---
 ## 2. College Portal System.
 <img width="794" height="413" alt="image" src="https://github.com/user-attachments/assets/1d2e7c8f-dd18-4622-8c06-fb2d3e43e68e" />
----
+
 ## 📌 Overview
 The **College Portal System** is a database-driven application designed to manage student and teacher information, academic records, and department details.  
 This repository contains the **MySQL database schema (`portal_college.sql`)** which can serve as the backend for a college management or e-portal system.
