@@ -38,9 +38,9 @@ This repository contains the **MySQL database schema (`pizza_order.sql`)** which
 - ✅ Can be integrated with POS systems, mobile apps, or websites.
 ----
   ## project link:
-  ```
+  ***
   https://www.getyourprojectdone.in/projects/Pizza-Order-System
-  ```
+  ***
 ---
 ## 2. College Portal System.
 <img width="794" height="413" alt="image" src="https://github.com/user-attachments/assets/1d2e7c8f-dd18-4622-8c06-fb2d3e43e68e" />
@@ -69,10 +69,10 @@ This repository contains the **MySQL database schema (`portal_college.sql`)** wh
 
 ---
  ## project link:
- ```
+ ***
 https://www.getyourprojectdone.in/projects/College-Portal-System
 
-```
+***
 ---
 ## 3.School Management System.
 <img width="1415" height="924" alt="image" src="https://github.com/user-attachments/assets/b48b491c-baa6-4b84-a8b6-8cc4046847f9" />
